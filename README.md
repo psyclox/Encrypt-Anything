@@ -1,5 +1,3 @@
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=2000&pause=2000&color=2B97FFFF&center=true&width=435&lines=CLOUD CRYPT"/></a>
-<br>
-<br>
-cloud crypt is a my final year project which under development currently 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00FF00&center=true&width=435&lines=CLOUD+CRYPT"/>
+</p>
