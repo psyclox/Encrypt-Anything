@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## 🚀 Quick Access to Chrome Web Store
+## click this to open project 👇
 
 [![Open in Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Open_Extension-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/mnlikdlbjcmjekemaojkaiclmlklbdhi)
 
