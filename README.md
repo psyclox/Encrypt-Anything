@@ -11,11 +11,6 @@
 
 </div>
 
-## Features
-
-- Enhanced browsing experience
-- Simple one-click installation
-
 ## Installation
 Click the badge above to open this extension in the Chrome Web Store, then click "Add to Chrome" to install.
 
@@ -27,3 +22,46 @@ Click the badge above to open this extension in the Chrome Web Store, then click
 
 </div>
 
+
+<div align="center">
+
+Overview
+
+Securely encrypt and decrypt files using AES-256, and upload them to Google Drive.
+
+Encrypt Anything provides secure AES-256 encryption for your files before uploading to Google Drive. Protect your sensitive data with Robust encryption Methodology at ease of use.
+
+Features include:
+
+    •  End-to-end file encryption/decryption
+
+    •  Secure Google Drive integration
+
+    •  Supports Local encryption/decryption
+
+    •  Password strength monitoring
+
+    •  Dark mode support
+
+    •  Progress tracking 
+
+CREDITS : 
+        
+         Karthikeyan 
+       Mohamed Hashif 
+          Santhosh
+
+
+Advantages in local encryption/decryption :
+
+    →  you can share your files via any platforms by encrypting files locally 
+
+
+Disclaimer : 
+
+    →   If you forget your encryption password, your files may become permanently inaccessible as we have no way to recover them.
+
+    →    Your files remain private - we never collect passwords, encryption keys, or any other personal data. Perfect for securing financial documents, personal data, and confidential work files in the cloud.
+See less
+
+</div>
